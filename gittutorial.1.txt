@@ -1,0 +1,14 @@
+1) create local folder 
+2) In GitBash > ls folder (open folder)
+3) git remote add origit project_url.git (ex: got remote add origin https://github.com/HEC-Ryerson/RUSiliconGit.git)
+   [if you mess up the link, ---> git remote -v (this checks what remote you've set up to), if wrong, **git remote -v ]
+4) git remote origin master
+5) "ls" to check
+********PROJECT TRANSFER TO COMUTER COMPLETE
+6) git status (check what you changes)
+7) git add . (this will update local computer with update)
+8) git commit -m "addAnyName"
+9) add respective login details
+10) git commit -m "addAnyName"
+11) git push origin master -->LOGIN in UI
+ 
